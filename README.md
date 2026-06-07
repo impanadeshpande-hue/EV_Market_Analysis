@@ -32,4 +32,5 @@ Evaluated charging infrastructure readiness.
 Measured battery performance across vehicle types.
 Forecasted future EV market growth trends.
 
-# 
+# 📸 Dashboard Screenshots
+Here is the screenshot of my dashboard: 
