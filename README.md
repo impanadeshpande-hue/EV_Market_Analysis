@@ -16,6 +16,10 @@ Power Query
 DAX
 Microsoft Excel
 
+# 🗂️DataSet
+The dataset used in this project was obtained from ChatGPT and contains about Electric Vehicle model, type, charging stations etc.
+Source: ChatGPT.
+
 # 🚀 Project Highlights
 ✔ Interactive Power BI Dashboard
 ✔ Star Schema Data Modeling
