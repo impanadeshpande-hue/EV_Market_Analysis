@@ -33,4 +33,4 @@ Measured battery performance across vehicle types.
 Forecasted future EV market growth trends.
 
 # 📸 Dashboard Screenshots
-Here is the screenshot of my dashboard: 
+Here is the screenshot of my dashboard: https://github.com/impanadeshpande-hue/EV_Market_Analysis/blob/main/Screenshot%202026-06-07%20141734.png
